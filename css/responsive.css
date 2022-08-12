@@ -1,0 +1,216 @@
+@media (max-width: 575.98px) {
+
+    /* ===========menu part start =========== */
+    #main_menu .navbar-brand img {
+        width: 110px;
+    }
+
+    #main_menu ul li {
+        margin-left: 50%;
+        background: #0000009e;
+    }
+
+    #main_menu .toggoler_icon i {
+        font-size: 20px;
+        color: #ff5f83;
+    }
+
+    #main_menu .navbar-toggler:focus {
+        box-shadow: none;
+    }
+
+    #main_menu .toggoler_icon {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+    /* ===========menu part end =========== */
+    /* ==========banner part start ============= */
+    #banner_part .overlay {
+        padding-top: 171px;
+    }
+
+    #banner_part .overlay h1 {
+        font-size: 39px;
+    }
+
+    #banner_part .overlay h4 {
+        font-size: 20px;
+        margin-bottom: 14px;
+        margin-top: 10px;
+    }
+
+    .button a {
+        font-size: 14px;
+    }
+
+    /* ==========banner part end ============= */
+    /* ===========about part stat======== */
+    #about_part {
+        padding: 41px 0;
+    }
+
+    .common_heading {
+        font-size: 19px;
+    }
+
+    .heading_img {
+        margin-bottom: 20px;
+    }
+
+    #about_part p span {
+        margin-top: 18px;
+    }
+
+    #about_part .img_1 {
+        margin: 40px 0;
+    }
+
+    /* ===========about part end======== */
+    /* ==========gallery part start ========== */
+    #gallery_part .overlay .img {
+        margin: 15px 0;
+    }
+
+    #dj_part .prevarrow {
+        font-size: 41px;
+        bottom: -78px;
+        left: 40%;
+    }
+
+    #dj_part .item .img .img_overlay .icon_main .icon {
+        height: 35px;
+        width: 35px;
+    }
+
+    #dj_part .nextarrow {
+        font-size: 41px;
+        bottom: -78px;
+        right: 40%;
+    }
+
+    #dj_part .item .img .img_overlay .icon_main .icon i {
+        font-size: 16px;
+    }
+
+    /* ==========gallery part end ========== */
+    /* ============event part start ============ */
+    #event_part .overlay {
+        padding-bottom: 88px;
+    }
+
+    #event_part .overlay .count_down .main .item {
+        height: 60px;
+        width: 60px;
+    }
+
+    #event_part .overlay .count_down .main .item h4 {
+        font-size: 16px;
+    }
+
+    #event_part .overlay h2 {
+        font-size: 15px;
+        margin-top: 28px;
+    }
+
+    #event_part .overlay .count_down .main .item h3 {
+        font-size: 13px;
+    }
+
+    #event_part .overlay .count_down .main {
+        gap: 20px;
+        justify-content: center;
+    }
+
+    #event_part .prevarrow {
+        font-size: 41px;
+        bottom: -95px;
+        left: 40%;
+    }
+
+    #event_part .nextarrow {
+        font-size: 41px;
+        bottom: -95px;
+        right: 40%;
+    }
+
+    /* ============event part end ============ */
+    /* ==========blog part start =========== */
+    #blog_part {
+        padding-bottom: 30px;
+    }
+
+    #blog_part .text p {
+        margin-top: 18px;
+    }
+
+    #blog_part .prevarrow {
+        font-size: 41px;
+        bottom: -32px;
+        left: 40%;
+    }
+
+    #blog_part .nextarrow {
+        font-size: 41px;
+        bottom: -33px;
+        right: 40%;
+    }
+
+    /* ==========blog part end =========== */
+    /* ==========testimonial part start ======== */
+    #testimonial_part .test_banner .overlay {
+        padding-bottom: 80px;
+    }
+
+    #testimonial_part .prevarrow {
+        font-size: 41px;
+        bottom: -80px;
+        left: 40%;
+    }
+
+    #testimonial_part .nextarrow {
+        font-size: 41px;
+        bottom: -80px;
+        right: 40%;
+    }
+
+    /* ==========testimonial part end ======== */
+    /* =============membership part start ========= */
+    #membership_part {
+        padding: 50px 0;
+    }
+
+    #membership_part .item {
+        top: -40px;
+        margin: 50px 0;
+    }
+
+    #membership_part .item .item_top h3 {
+        font-size: 19px;
+    }
+
+    #membership_part .item .item_bottom {
+        bottom: -65px;
+    }
+
+    /* =============membership part end ========= */
+    /* ===========footer part start ======== */
+    #footer_part .item_1 .logo img {
+        width: 100px;
+    }
+
+    #footer_part .item_2 {
+        margin-top: 50px;
+    }
+
+    #footer_part .item_3 {
+        margin-top: 50px;
+    }
+
+    #footer_part .item_4 {
+        margin-top: 50px;
+    }
+
+    /* ===========footer part end ======== */
+}

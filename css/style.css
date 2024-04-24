@@ -1106,7 +1106,7 @@ img {
 #footer_part .item_4 input {
     background: transparent;
     width: 100%;
-    padding: 5px 0;
+    padding: 5px 0 5px 10px;
     color: white;
     border: 1px solid white;
 }

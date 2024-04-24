@@ -83,7 +83,7 @@ $('.event_slider').slick({
 // ===============event part end ============
   // ==========event count down part one start ===========
   // Set the date we're counting down to
-var countDownDate = new Date("june 8, 2022 12:33:59").getTime();
+var countDownDate = new Date("june 8, 2024 12:33:59").getTime();
 
 // Update the count down every 1 second
 var x = setInterval(function() {
